@@ -1,29 +1,6 @@
 @echo off
- :x
- start winword
+ start control
  start mspaint
  start notepad
- start write
- start cmd
- start explorer
- start control
- start calc
- start winword
- start mspaint
- start notepad
- start write
- start cmd
- start explorer
- start control
- start calc
- start winword
- start mspaint
- start notepad
- start write
- start cmd
- start explorer
- start control
  start calc
  start cmd
- start cmd
- goto x
